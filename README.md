@@ -15,7 +15,7 @@ Version 2 Console upcoming:
 May take more time but can be done:
 - .jpg ----> .jpg
 
-Project is used for images that are encrypted. Hackers can apply an XOR, AND, OR, simple hex shift to
+Project is used for images that are encrypted. Hackers can apply a XOR, AND, OR, simple hex shift to
 obfuscate the real image file. 
 
 Used for NCL (National Cyber League) competition. 
